@@ -1,26 +1,36 @@
-# 👋 Hi, I’m Daud Said
+# 👋 Hi, I’m Daud Said (@Daudsaid)
 
-I’m a passionate **Frontend Developer** focused on building clean, responsive, and accessible web applications using **React.js**, **Next.js**, **Tailwind CSS**, and modern JavaScript.
+I’m a **React & Next.js Software Engineer** with a proven track record of building SEO-optimized, high-performance web applications—especially for real-time systems like money transfers. I specialize in:
 
-### 👨‍💻 What I'm Working On
-- Building AI-powered and full-stack web apps with React, Next.js, and public APIs.
-- Exploring backend technologies like **Go** and **TypeScript** to strengthen my full-stack skills.
+- 🔐 Secure API integrations
+- 🧱 Scalable component architecture with **Tailwind CSS** & **TypeScript**
+- ⚡ Advanced server-side rendering (SSR) techniques to boost load speed & SEO
+- 🎨 Clean UI/UX principles aligned with real business outcomes
 
-### 🚀 Side Projects
-- **DaudFlix** – Netflix-style movie app built with React, Firebase, and the TMDB API.
-- **EcomDaud** – Full-stack e-commerce app with cart logic, checkout, and promo code functionality.
-- **Tesla UI Clone** – Tesla car configurator built using Tailwind CSS and Vanilla JS.
-- **Admin Dashboard** – Dynamic dashboard with theming, Kanban, charts, and calendar features using React.
-- **DeepSeek Clone** – Next.js AI-powered interface integrated with DeepSeek API.
+### 🚀 Projects & Live Deployments
+
+- **DaudFlix** – Netflix-style movie app using React, Firebase, and TMDB API  
+  🔗 [Live on Vercel](https://daudflix.vercel.app)
+
+- **EcomDaud** – Full-stack e-commerce web app with cart, promo, and checkout logic  
+  🔗 [Live on Vercel](https://ecomercedaud.vercel.app)
+
+- **Tesla UI Clone** – Car configurator UI built with Tailwind CSS & Vanilla JS  
+  🔗 [Live Preview Coming Soon]
+
+- **Admin Dashboard** – Feature-rich React dashboard with theming, charts, Kanban, and calendar  
+  🔗 [Live Preview Coming Soon]
+
+- **DeepSeek Clone** – AI-powered app built with Next.js and DeepSeek API  
+  🔗 [Live Preview Coming Soon]
 
 ### 🌱 Currently Learning
-- Advanced features in **Next.js**, API integration, and GenAI tools for developers.
-- Backend development with **Go** and scalable architecture with **TypeScript**.
+- **Go**, **PostgreSQL**, and deeper backend architecture  
+- Generative AI for software dev workflows (via DeepLearning.ai)
 
-### 🤝 Let’s Connect
-- 📧 Email: **daudsaidabdi@gmail.com**
-- 🌍 Portfolio: _coming soon_  
-- 💼 Open to collaboration, remote freelance, or full-time opportunities.
+### 📫 Let’s Connect
+- GitHub: [github.com/Daudsaid](https://github.com/Daudsaid)  
+- Email: **daudsaidabdi@gmail.com**
 
 ---
 
