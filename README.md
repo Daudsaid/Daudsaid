@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daud Said (@Daudsaid)
+# 👋 Hi, I’m Daud Abdi (@Daudsaid)
 
 I’m a **React & Next.js Software Engineer** with a proven track record of building SEO-optimized, high-performance web applications—especially for real-time systems like money transfers. I specialize in:
 
