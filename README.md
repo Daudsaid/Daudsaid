@@ -16,7 +16,7 @@ I’m a **React & Next.js Software Engineer** with a proven track record of buil
   🔗 [Live on Vercel](https://ecomercedaud.vercel.app)
 
 - **Tesla UI Clone** – Car configurator UI built with Tailwind CSS & Vanilla JS  
-  🔗 [Live Preview Coming Soon]
+  🔗 [Live on Vercel](https://tesla-car-configurator-daud.vercel.app/)
 
 - **Admin Dashboard** – Feature-rich React dashboard with theming, charts, Kanban, and calendar  
   🔗 [Live Preview Coming Soon]
