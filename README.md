@@ -22,7 +22,7 @@ With a strong foundation in frontend technologies like React and Tailwind CSS, I
 | **EcomDaud** – Full e-commerce frontend | React, Styled Components | [🔗 Live](https://ecomercedaud.vercel.app) |
 | **Tesla UI Clone** – Car configurator UX | Vanilla JS, Tailwind CSS | [🔗 Live](https://tesla-car-configurator-daud.vercel.app) |
 | **SQL Data Cleaning Project** | MySQL, CSV | [📂 GitHub](https://github.com/Daudsaid/my-sql-project) |
-| **EDA on Layoffs Data** | MySQL, Window Functions | _coming soon_ |
+| **EDA on Layoffs Data** | MySQL, Window Functions | 📂 GitHub |
 
 ---
 
