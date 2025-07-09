@@ -1,39 +1,35 @@
 # 👋 Hi, I’m Daud Abdi (@Daudsaid)
 
-I’m a **React & Next.js Software Engineer** with a proven track record of building SEO-optimized, high-performance web applications—especially for real-time systems like money transfers. I specialize in:
+I'm a **Frontend Developer & Data Analyst** with a passion for building fast, scalable, and clean user interfaces that align with real business goals—especially in sectors like fintech, e-commerce, and entertainment.
 
-- 🔐 Secure API integrations
-- 🧱 Scalable component architecture with **Tailwind CSS** & **TypeScript**
-- ⚡ Advanced server-side rendering (SSR) techniques to boost load speed & SEO
-- 🎨 Clean UI/UX principles aligned with real business outcomes
+---
+## 💡 What I Do
 
-### 🚀 Projects & Live Deployments
-
-- **DaudFlix** – Netflix-style movie app using React, Firebase, and TMDB API  
-  🔗 [Live on Vercel](https://daudflix.vercel.app)
-
-- **EcomDaud** – Full-stack e-commerce web app with cart, promo, and checkout logic  
-  🔗 [Live on Vercel](https://ecomercedaud.vercel.app)
-
-- **Tesla UI Clone** – Car configurator UI built with Tailwind CSS & Vanilla JS  
-  🔗 [Live on Vercel](https://tesla-car-configurator-daud.vercel.app/)
-
-- **Admin Dashboard** – Feature-rich React dashboard with theming, charts, Kanban, and calendar  
-  🔗 [Live Preview Coming Soon]
-
-- **DeepSeek Clone** – AI-powered app built with Next.js and DeepSeek API  
-  🔗 [Live Preview Coming Soon]
-
-### 🌱 Currently Learning
-- **Go**, **PostgreSQL**, and deeper backend architecture  
-- Generative AI for software dev workflows (via DeepLearning.ai)
-
-### 📫 Let’s Connect
-- GitHub: [github.com/Daudsaid](https://github.com/Daudsaid)  
-- Email: **daudsaidabdi@gmail.com**
+- 📊 **Data Analysis & SQL** – Clean, transform, and analyze datasets using MySQL and Python (pandas). Strong in EDA, KPI reporting, and querying relational databases.
+- 📉 **Data Cleaning & Transformation** – Handle messy, inconsistent, or incomplete data to prepare it for analysis or dashboards.
+- 📊 **Business Intelligence & Reporting** – Build interactive dashboards and visual reports using **Power BI**, **Tableau**, and **Excel** to support business decision-making.
+- 📈 **Visualization & Storytelling** – Translate raw data into meaningful charts using matplotlib, seaborn, and Excel pivot tables.
+- ⚛️ **Frontend Dev (React + Tailwind CSS)** – Create data-driven interfaces and lightweight apps with React, TypeScript, and Tailwind CSS.
 
 ---
 
-_“Code it clean. Build it bold. Ship it fast.”_
+## 🚀 Featured Projects
 
+| Project | Stack | Live Link |
+|--------|-------|-----------|
+| **DaudFlix** – Netflix-style movie app | React, TMDB API, Firebase Auth | [🔗 Live](https://daudflix.vercel.app) |
+| **EcomDaud** – Full e-commerce frontend | React, Styled Components | [🔗 Live](https://ecomercedaud.vercel.app) |
+| **Tesla UI Clone** – Car configurator UX | Vanilla JS, Tailwind CSS | [🔗 Live](https://tesla-car-configurator-daud.vercel.app) |
+| **SQL Data Cleaning Project** | MySQL, CSV | [📂 GitHub](https://github.com/Daudsaid/my-sql-project) |
+| **EDA on Layoffs Data** | MySQL, Window Functions | _coming soon_ |
 
+---
+
+## 📫 Let’s Connect
+
+- 💼 GitHub: [@Daudsaid](https://github.com/Daudsaid)  
+- ✉️ Email: **daudsaidabdi@gmail.com**
+
+---
+
+> _“Code it clean. Build it bold. Ship it fast.”_
