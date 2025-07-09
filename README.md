@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Daud Abdi (@Daudsaid)
 
-I'm a **Frontend Developer & Data Analyst** with a passion for building fast, scalable, and clean user interfaces that align with real business goals—especially in sectors like fintech, e-commerce, and entertainment.
+I'm a **Data Analyst with a frontend development background**, passionate about uncovering insights from data and translating them into real business impact. I specialize in **SQL, Python (pandas), Excel, Power BI**, and **Tableau** to clean, analyze, and visualize data — particularly for industries like **fintech**, **e-commerce**, and **digital media**.
 
+With a strong foundation in frontend technologies like React and Tailwind CSS, I also enjoy building lightweight tools and dashboards to make data more accessible and actionable.
 ---
 ## 💡 What I Do
 
